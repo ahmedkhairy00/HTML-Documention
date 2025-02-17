@@ -1,7 +1,4 @@
 # HTML-Documention
-my Study Of All Html Tags 
-
-# HTML
 
 # **Html Basics**
 
